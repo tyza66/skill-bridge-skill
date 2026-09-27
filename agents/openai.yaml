@@ -1,0 +1,3 @@
+display_name: Skill Bridge
+short_description: Temporarily use a skill from another agent directory
+default_prompt: bridge skill
